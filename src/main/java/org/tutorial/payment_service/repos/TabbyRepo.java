@@ -1,0 +1,4 @@
+package org.tutorial.payment_service.repos;
+
+public interface TabbyRepo {
+}
